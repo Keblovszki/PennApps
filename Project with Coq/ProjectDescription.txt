@@ -1,0 +1,2 @@
+In this project is some awesome theorems about matrices and the Fibonacci numbers proved.
+This is done by using the functional program language Coq.
